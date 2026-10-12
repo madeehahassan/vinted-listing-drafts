@@ -1,0 +1,14 @@
+{
+  "name": "madeeha-plugins",
+  "description": "Practical selling workflows by Madeeha Hassan",
+  "owner": {
+    "name": "Madeeha Hassan"
+  },
+  "plugins": [
+    {
+      "name": "vinted-listing-drafts",
+      "source": "./",
+      "description": "Prepare researched Vinted listings from a photo folder and transfer approved items."
+    }
+  ]
+}

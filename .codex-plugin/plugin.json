@@ -1,0 +1,36 @@
+{
+  "name": "vinted-listing-drafts",
+  "version": "0.2.1",
+  "description": "Prepare researched resale listings from a photo folder and transfer only approved items to Vinted.",
+  "author": {
+    "name": "Madeeha Hassan"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Vinted Listing Drafts",
+    "shortDescription": "Photos to Vinted drafts",
+    "longDescription": "For private sellers who want to list a folder of clothes, shoes or accessories. Groups photos by item, prepares checked JPEGs, researches comparable listings, and creates editable drafts with links and questions for anything it cannot verify. The seller reviews each item before any transfer. Approved drafts can be entered through the seller's signed-in Vinted session when the host provides browser control. This plugin contains instructions, not a hosted photo editor or Vinted integration. Independent tool, not affiliated with Vinted.",
+    "developerName": "Madeeha Hassan",
+    "category": "Productivity",
+    "websiteURL": "https://github.com/madeehahassan/vinted-listing-drafts",
+    "supportURL": "https://github.com/madeehahassan/vinted-listing-drafts/issues",
+    "privacyPolicyURL": "https://github.com/madeehahassan/vinted-listing-drafts/blob/main/PRIVACY.md",
+    "capabilities": [
+      "Group photos by item and prepare listing JPEGs",
+      "Research product matches and resale prices",
+      "Create editable listings for owner review",
+      "Transfer only approved listings to Vinted"
+    ],
+    "defaultPrompt": "Use my product photo folder to prepare researched Vinted listings for my review.",
+    "brandColor": "#176656",
+    "logo": "./assets/logo.svg",
+    "composerIcon": "./assets/logo.svg"
+  },
+  "extensions": {
+    "com.openai": {
+      "publication": {
+        "release_notes": "Initial public submission. Adds portable listing preparation and approved Vinted transfer skills, with research, photo checks and seller review safeguards."
+      }
+    }
+  }
+}

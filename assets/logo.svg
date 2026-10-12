@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Vinted Listing Drafts icon">
+  <rect width="256" height="256" rx="52" fill="#176656"/>
+  <path d="M128 57c-11 0-19 8-19 19 0 8 4 13 10 17 6 4 9 7 9 13v10" fill="none" stroke="#F7F5EE" stroke-width="12" stroke-linecap="round"/>
+  <path d="M128 116 55 166c-7 5-4 16 5 16h136c9 0 12-11 5-16l-73-50Z" fill="none" stroke="#F7F5EE" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M86 180v20m84-20v20" stroke="#E8D8A9" stroke-width="12" stroke-linecap="round"/>
+</svg>
