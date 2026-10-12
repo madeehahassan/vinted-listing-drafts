@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vinted-listing-drafts",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Prepare researched resale listings from a photo folder and transfer only approved items to Vinted.",
   "author": {
     "name": "Madeeha Hassan"
